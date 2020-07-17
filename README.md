@@ -7,7 +7,7 @@
 - Cadastro de conta com Google<br>
 - Cadastro de conta com Google<br>
 - Cadastro de conta com Google<br>
-<div border="5px" width="100" heigth="500">
+<div background-color="red" width="100" height="500" >
   testando
 </div>
 
