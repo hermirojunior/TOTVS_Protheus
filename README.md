@@ -9,7 +9,7 @@
 - [X] API/REST - ADVPL
 
 <br<br><br>
-<hr><br>
+<hr>
 <h2 align="center">API/REST - ADVPL</h2>
 
 
