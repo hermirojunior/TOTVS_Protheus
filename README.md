@@ -4,11 +4,16 @@
 :heavy_check_mark: Exemplos de funções ou tecnologias baseados em ADVPL
 <br><br>
 <b>Índice</b><br>
-- Cadastro de conta com Google<br>
-- Cadastro de conta com Google<br>
-- Cadastro de conta com Google<br>
-<div background-color="red" width="100" height="500" >
-  testando
-</div>
+### Listas não ordenadas
+- Cadastro de conta com Google
+    - Captura de avatar a partir do login ou registro com google
+
+### Usando um task list, marcando tarefa como completada ou não  
+
+- [X] Cadastro de conta com Google
+- [ ] Cadastro de conta com Google
+
+### Lista ordenada
+1. Listagem ordenada
 
 
