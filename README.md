@@ -12,6 +12,7 @@
 
 <hr>
 <a id="api_rest" class="anchor" hidden="true" href="#api_rest"><h2 align="center">API/REST - ADVPL</h2></a>
+<img src="https://img.shields.io/static/v1?label=Status&message=Em%20Desenvolvimento&color=blue&style=flat-square"><br>
 
 
 
