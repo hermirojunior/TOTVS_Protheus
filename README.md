@@ -8,10 +8,10 @@
 
 ### Índice
 
-- [X] <a href="#api_rest">API/REST - ADVPL</a><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f51d.png">
+- [X] <a href="#api_rest">API/REST - ADVPL</a>
 
 <hr>
-<a id="api_rest" class="anchor" hidden="true" href="#api_rest"><h2 align="center">API/REST - ADVPL</h2></a>
+<a id="api_rest" class="anchor" hidden="true" href="#api_rest"><h2 align="center">API/REST - ADVPL</h2></a><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f51d.png">
 <img src="https://img.shields.io/static/v1?label=Status&message=Em%20Desenvolvimento&color=blue&style=flat-square"><br>
 
 
