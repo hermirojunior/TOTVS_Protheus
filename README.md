@@ -4,5 +4,8 @@
 :heavy_check_mark: Exemplos de funções ou tecnologias baseados em ADVPL
 <br><br>
 <b>Índice</b><br>
+- Cadastro de conta com Google
+- Cadastro de conta com Google
+- Cadastro de conta com Google
 
 
