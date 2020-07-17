@@ -3,7 +3,9 @@
 <b>O que você verá por aqui?</b><br>
 :heavy_check_mark: Exemplos de funções ou tecnologias baseados em ADVPL
 <br><br>
-<b>Índice</b><br>
+### Índice
+- [X] Cadastro de conta com Google
+
 ### Listas não ordenadas
 - Cadastro de conta com Google
     - Captura de avatar a partir do login ou registro com google
