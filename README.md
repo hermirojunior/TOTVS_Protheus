@@ -9,9 +9,9 @@
 :heavy_check_mark: Exemplos de funções ou tecnologias baseados em ADVPL
 <br><br>
 
-### 🛠 Tecnologias
+### 🛠 Índice
 
-As seguintes ferramentas foram usadas na construção do projeto:
+Lista de exemplos desenvolvidos em ADVPL.
 
 - [Expo](https://expo.io/)
 - [Node.js](https://nodejs.org/en/)
