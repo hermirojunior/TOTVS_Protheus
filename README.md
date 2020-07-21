@@ -11,6 +11,12 @@
 
 ### Índice
 
+- [x] Cadastro de usuário
+- [x] Cadastro de cliente
+- [ ] Cadastro de produtos
+
+### Índice
+
 - [ x ] <a href="#api_rest">API/REST - ADVPL</a>
 - [ ] Testes
 
