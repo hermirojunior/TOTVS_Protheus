@@ -9,11 +9,15 @@
 :heavy_check_mark: Exemplos de funções ou tecnologias baseados em ADVPL
 <br><br>
 
-### Índice
+### 🛠 Tecnologias
 
-- [x] <a href="#api_rest"> Cadastro de usuário </a>
-- [x] Cadastro de cliente
-- [ ] Cadastro de produtos
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Expo](https://expo.io/)
+- [Node.js](https://nodejs.org/en/)
+- [React](https://pt-br.reactjs.org/)
+- [React Native](https://reactnative.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
 
 ### Índice
 
