@@ -11,7 +11,7 @@
 
 ### Índice
 
-- [x] <a href="#api_rest">Cadastro de usuário</a>
+- [x] <a href="#api_rest"> Cadastro de usuário </a>
 - [x] Cadastro de cliente
 - [ ] Cadastro de produtos
 
